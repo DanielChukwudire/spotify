@@ -7,7 +7,7 @@ const Header: React.FC = () => {
       <div className="w-full h-20  bg-black flex items-center justify-between">
         <div className="w-[580px]  flex justify-between">
           <div>
-            <img className="w-24 h-15" src={logo} />
+            <img className="w-18 h-15" src={logo} />
           </div>
           <div className="w-15 h-15 bg-[#1f1f1f] rounded-full">
             {/* <img className="" src={"HomeIcon"} /> */}
